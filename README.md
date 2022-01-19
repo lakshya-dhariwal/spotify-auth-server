@@ -17,4 +17,6 @@ Made with node & spotify-web-api-node
 - req = {refreshToken}
 - res = {accessToken ,expiresIn}
 
+---
+Hosted on repl.it and repl kept running using uptime robot
 
